@@ -7,7 +7,6 @@
 <div> 
   <a href="https://instagram.com/rflazv_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/rflazv1" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<img align="right" alt="Rafa-pic" height="215" style="border-radius:70px;" src="https://c.tenor.com/2z7NVAVjM_YAAAAd/guts-berserk.gif">
  </div>
  
 <div style="display: nicline_block"><br>
